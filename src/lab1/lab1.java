@@ -6,7 +6,7 @@ public class lab1 {
 		// TODO Auto-generated method stub
 	System.out.println("I'm ²�ʦt");
 	System.out.println("My NID is D0843407");
-	System.out.println("This is lab1 HW");
+	System.out.println("This is lab1 hw");
 	}
 
 }
